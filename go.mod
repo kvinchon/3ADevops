@@ -1,1 +1,1 @@
-module wsf/3ADevops/3ADevops
+module wsf/3ADevops
