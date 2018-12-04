@@ -13,3 +13,11 @@ Suite à ces modifications, nous pourrions supprimer notre application en stagin
 La branche development de notre repository Git étant connectée à notre application en dev sur Heroku, nous n'avons plus besoin d'application en staging.
 Cependant, il faudrait être sûr de ne pas pouvoir faire de "git push" directement sur notre branche principale, à savoir development.
 Ceci pour éviter de faire planter notre application en développement et potentiellement en production.
+
+Lien vers repository public GitHub :
+https://github.com/kvinchon/3ADevops.git
+
+Lien vers applications :
+https://kvinchon-development.herokuapp.com/
+https://kvinchon-staging.herokuapp.com/
+https://kvinchon-production.herokuapp.com/
